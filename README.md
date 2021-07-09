@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vlad
+### Heey there 👋, I'm Erkin :^)
 
 ![](https://komarev.com/ghpvc/?username=erkinchik)
 
