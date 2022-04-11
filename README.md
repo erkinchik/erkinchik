@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=erkinchik)
 
 ## I'm a FrontEnd Developer
-- 👨‍💻 I like to write code
 - 👨‍🎓 I'm constantly learning new things
-- 🤹🏽 I like to read books and watch films 
-- 🎉 I can play on the guitar
+- 🤹🏽 I like to read books and watch films sort of science-oriented
+- 🎸 I absolutly love play on the guitar
 
 
 ### Connect with me:
