@@ -1,4 +1,4 @@
-### Heey there 👋, I'm Erkin :^)
+### Heey there 👋, I'm Erkin Berdibaev
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkinchik&langs_count=8&layout=compact" />
