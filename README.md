@@ -1,7 +1,20 @@
 ## Erkin Berdibaev
 
-Fullstack developer. TypeScript on both ends — React/Vue on the front, NestJS/Node on the back.
+**Software Engineer** · Node.js / NestJS / TypeScript / React
 
-**Stack:** TypeScript · React · Vue · NestJS · Node.js · PostgreSQL · MongoDB
+5+ years building production systems: microservices over gRPC, real-time services on WebSockets, high-load PostgreSQL/Redis optimization, and RAG/LLM integrations.
 
-[Telegram](https://t.me/erkinchik20) · [LinkedIn](https://www.linkedin.com/in/erkin-berdibaev/)
+### Stack
+
+- **Languages** — TypeScript, JavaScript, Go
+- **Backend** — Node.js, NestJS, Express, REST, gRPC, Microservices, RabbitMQ, WebSocket
+- **Frontend** — React, Next.js, Redux Toolkit
+- **Databases** — PostgreSQL, MongoDB, Redis, pgvector, Prisma, TypeORM
+- **AI / LLM** — RAG, Google Gemini API, LangChain, embeddings
+- **Cloud & DevOps** — Docker, AWS, Nginx, GitLab CI/CD, Linux
+- **Blockchain** — Viem (EVM), TronWeb
+- **Testing** — Jest, Playwright
+
+### Contact
+
+[Telegram](https://t.me/erkinchik20) · [LinkedIn](https://www.linkedin.com/in/erkin-berdibaev/) · erkin.berdibaev.dev@gmail.com
