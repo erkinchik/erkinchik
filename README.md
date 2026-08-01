@@ -1,20 +1,9 @@
 ## Erkin Berdibaev
 
-**Software Engineer** · Node.js / NestJS / TypeScript / React
+**Software Engineer** · 5+ years
 
-5+ years building production systems: microservices over gRPC, real-time services on WebSockets, high-load PostgreSQL/Redis optimization, and RAG/LLM integrations.
+Backend-heavy: microservices, real-time, high-load PostgreSQL/Redis, RAG/LLM.
 
-### Stack
-
-- **Languages** — TypeScript, JavaScript, Go
-- **Backend** — Node.js, NestJS, Express, REST, gRPC, Microservices, RabbitMQ, WebSocket
-- **Frontend** — React, Next.js, Redux Toolkit
-- **Databases** — PostgreSQL, MongoDB, Redis, pgvector, Prisma, TypeORM
-- **AI / LLM** — RAG, Google Gemini API, LangChain, embeddings
-- **Cloud & DevOps** — Docker, AWS, Nginx, GitLab CI/CD, Linux
-- **Blockchain** — Viem (EVM), TronWeb
-- **Testing** — Jest, Playwright
-
-### Contact
+**Stack:** TypeScript · NestJS · Node.js · React · Next.js · PostgreSQL · Redis · gRPC · Docker
 
 [Telegram](https://t.me/erkinchik20) · [LinkedIn](https://www.linkedin.com/in/erkin-berdibaev/) · erkin.berdibaev.dev@gmail.com
